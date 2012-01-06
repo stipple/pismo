@@ -1,3 +1,5 @@
+#encoding: utf-8
+
 require 'pismo/internal_attributes'
 require 'pismo/external_attributes'
 
